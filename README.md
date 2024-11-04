@@ -1,4 +1,4 @@
-#AWS
+
 # AWS
 creating vm by using aws 
 1. make a aws account
